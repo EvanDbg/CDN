@@ -2,8 +2,8 @@ console.log('ok test');
 
 const $ = new Env();
 const options = {
-  url: 'https://api.day.app/oscvrdJCinKuuuf2dSUXhL/okok',
-  headers: {
+  'url': 'https://api.day.app/oscvrdJCinKuuuf2dSUXhL/okok',
+  'headers': {
     'Content-Type': 'application/x-www-form-urlencoded'
   }
 }
